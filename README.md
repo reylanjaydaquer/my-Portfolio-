@@ -5,3 +5,7 @@
 | Reylan | Daquer |
 |--------|--------|
 |        |        |
+### Favorite Color
+- Blue
+- Red
+- Green
