@@ -1,2 +1,7 @@
-# my-Portfolio-
-my portfolio 
+# Reylan Daquer 
+## Reylan Daquer 
+**Reylan**
+*Reylan*
+| Reylan | Daquer |
+|--------|--------|
+|        |        |
