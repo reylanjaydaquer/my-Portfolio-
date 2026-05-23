@@ -6,6 +6,6 @@
 |--------|--------|
 |        |        |
 ### Favorite Color
-- Blue
-- Red
-- Green
++ Blue
++ Red
++ Green
