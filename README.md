@@ -21,7 +21,7 @@ I'M Reylan Daquer I am a Electronic engineering student And I enjoy All the less
 
 ### HOBBIES 
 
-+ Mag inom 
++ Drinking Alcohol
 
 ## Sports 
 
