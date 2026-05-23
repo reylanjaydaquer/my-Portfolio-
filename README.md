@@ -17,3 +17,13 @@
 ### ABOUT ME 
 
 I'M Reylan Daquer I am a Electronic engineering student And I enjoy All the lesson and knowledge 
+
+### HOBBIES 
+
++ Mag inom 
+
+## Sports 
+
++ Basketball 
++ Baseball 
++ Volleyball 
